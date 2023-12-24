@@ -8,6 +8,7 @@
 
  - Unsupervised Machine Learning:
 
+
 # Machine Learning Algorithms:
 
  - Linear Regression:
@@ -31,3 +32,33 @@
  - Extreme Gradient Boosting:
 
  - Adaboost:
+
+
+# Data Pre-processing Techniques:
+
+ - Handling Missing Values:
+
+ - Handling Categorical Values:
+
+ - Handling Imbalanced Data:
+
+ - Handling Outliers:
+
+ - Feature Scaling:
+
+ - Handling Duplicate Values:
+
+ - Handling Skewed Data & Data Distribution:
+   
+
+# Miscellanous Topics in Machine Learning:
+
+ - Bias Vraince Tradeoff:
+
+ - Underfitting and Overfitting:
+
+ - Evaluation Metrics for Supervised Learning:
+
+ - Bagging and Boosting:
+
+ - Splitting of Training & Testing Data:
