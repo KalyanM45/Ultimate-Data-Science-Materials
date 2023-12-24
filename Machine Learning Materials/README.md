@@ -2,7 +2,7 @@
 
  - Overview of Machine Learning:
 
- - Life Cycle of Machine Learning:
+ - Life Cycle of Machine Learning: https://medium.com/@kalyanmurapaka274/life-cycle-of-machine-learning-791f8df278d
    
  - Types of Machine Learning:
 
