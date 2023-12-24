@@ -1,6 +1,6 @@
 # Introduction to Machine Learning:
 
- - Overview of Machine Learning: bit.ly/3RVH2fi
+ - Overview of Machine Learning:
 
  - Life Cycle of Machine Learning:
    
