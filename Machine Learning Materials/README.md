@@ -2,7 +2,7 @@
 
  - Overview of Machine Learning:
 
- - Life Cycle of Machine Learning: https://shorturl.at/mqruO
+ - Life Cycle of Machine Learning: <a href="https://shorturl.at/mqruO">Medium - Life Cycle of Machine Learning</a>
    
  - Types of Machine Learning:
 
