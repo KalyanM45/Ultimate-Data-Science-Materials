@@ -35,6 +35,14 @@
 
  - Adaboost:
 
+ - K Means Clustering:
+
+ - K Medoids Clustering:
+
+ - Hierarchical Clustering:
+
+ - DBSCAN (Density-Based Spatial Clustering of Applications with Noise):
+
 
 # Data Pre-processing Techniques:
 
