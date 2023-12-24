@@ -67,6 +67,12 @@
 
  - Hyper Parameter Tuning:
 
+ - Linear Discriminant Analysis:
+
+ - Principal Component Analysis:
+
+ - Model Selection:
+
  - Bias Vraince Tradeoff:
 
  - Underfitting and Overfitting:
