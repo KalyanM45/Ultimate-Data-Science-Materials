@@ -53,6 +53,10 @@
 
 # Miscellanous Topics in Machine Learning:
 
+ - Cross Validation and it's types:
+
+ - Hyper Parameter Tuning:
+
  - Bias Vraince Tradeoff:
 
  - Underfitting and Overfitting:
