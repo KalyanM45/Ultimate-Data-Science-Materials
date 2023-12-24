@@ -1,3 +1,5 @@
+# Introduction to Machine Learning:
 
-
- - Overview & Introduction: 
+ - Overview of Machine Learning:
+   
+ - Types of Machine Learning:
