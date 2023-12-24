@@ -1,10 +1,10 @@
 # Introduction to Machine Learning:
 
- - Overview of Machine Learning:
+ - Overview of Machine Learning: 
 
  - Life Cycle of Machine Learning: <a href="https://shorturl.at/mqruO">Click Here</a>
    
- - Types of Machine Learning:
+ - Types of Machine Learning: <a href="https://medium.com/@kalyanmurapaka274/what-is-machine-learning-4830f3129f1e">Click Here</a>
 
  - Supervised Machine Learning:
 
