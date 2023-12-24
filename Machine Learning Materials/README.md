@@ -2,7 +2,7 @@
 
  - Overview of Machine Learning:
 
- - Life Cycle of Machine Learning: <a href="https://shorturl.at/mqruO">Medium - Life Cycle of Machine Learning</a>
+ - Life Cycle of Machine Learning: <a href="https://shorturl.at/mqruO">Click Here</a>
    
  - Types of Machine Learning:
 
@@ -46,7 +46,7 @@
 
 # Data Pre-processing Techniques:
 
- - Handling Missing Values:
+ - Handling Missing Values: <a href="https://medium.com/@kalyanmurapaka274/handling-missing-values-supercharge-your-data-98e35b791035">Click Here </a>
 
  - Handling Categorical Values:
 
