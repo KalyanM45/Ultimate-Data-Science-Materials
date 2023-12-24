@@ -4,6 +4,8 @@
 
  - Git CLI Installation:
 
+ - Git Commands:
+
  - Git in a Machine Learning Project:
 
  - Branching and Merging:
